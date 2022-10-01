@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/projects/reboot-product-and-tech/bate-papo-com-shiba/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/spaces/projects/reboot-product-and-tech/bate-papo-com-shiba/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 up:: [[Spaces/Projects/Reboot Product & Tech/Reboot Product & Tech|Reboot Product & Tech]]
