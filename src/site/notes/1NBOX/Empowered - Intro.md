@@ -6,7 +6,7 @@
 [Livro EN](https://www.amazon.com.br/Empowered-Ordinary-People-Extraordinary-Products/dp/111969129X/ref=asc_df_111969129X/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=10949580010776049221&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-947774987684&psc=1)
 [Livro PT-BR](https://www.amazon.com.br/Empoderado-Pessoas-comuns-produtos-extraordin%C3%A1rios/dp/6555208236/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
-#  Introdução: Lessons from Top Tech Companies
+# Introdução: Lessons from Top Tech Companies
 My first book, INSPIRED, discussed how strong product teams at the best product companies use the modern techniques of product discovery to solve hard problems in ways their customers love, yet work for their business. 
 
 INSPIRED brought me and my SVPG Partners into many more organizations, well beyond Silicon Valley. 
